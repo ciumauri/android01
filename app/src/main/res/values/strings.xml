@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exercicio_01</string>
+    <string name="icon_name">Bem Vindo</string>
+    <string name="input_email">E-mail</string>
+    <string name="input_password">Senha</string>
+    <string name="text_button">Entrar</string>
+    <string name="text_register">Registrar</string>
+</resources>
